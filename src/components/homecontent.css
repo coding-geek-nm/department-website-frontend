@@ -1,0 +1,17 @@
+
+.content_container {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://e-orchids.com/blog/wp-content/uploads/2022/02/IoT-security-solutions.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.content{
+    width: 100%;
+    height: 100%;
+}
+
+
